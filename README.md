@@ -10,9 +10,9 @@ A dynamic 2D arcade game built with **C++** and the **SFML (Simple and Fast Mult
 
 | Registration No | Name |
 | :--- | :--- |
+| **23/ENG/131** | A.Senthuran |
 | **23/ENG/132** | B.Shangeeth |
-| **23/ENG/090** | Panchalingam K |
-| **23/EBG/133** | S.Shanoorzan |
+| **23/ENG/170** | Piruththika |
 
 ---
 
