@@ -1,0 +1,46 @@
+# Visual Studio files and directories
+.vs/
+Debug/
+Release/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
+
+# Intermediate and build files
+*.obj
+*.ilk
+*.pdb
+*.tlog
+*.idb
+*.recipe
+*.log
+*.exe
+*.iobj
+*.ipdb
+*.lastbuildstate
+*.unsuccessfulbuild
+
+# Visual Studio user-specific settings
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio intellisense and browsing databases
+*.ipch
+*.db
+*.opendb
+
+# Project intermediate folders
+SFMLLinkTest/Debug/
+SFMLLinkTest/Release/
+SFMLLinkTest/x64/
+SFMLLinkTest/x86/
+
+# External SFML precompiled debug symbols (optional, keeps repo light)
+External/SFML/lib/Debug/*.pdb
+
+# Screenshots and temp files
+*.tmp
+screenshot.png
